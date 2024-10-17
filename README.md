@@ -2,12 +2,9 @@
 
 This is a visualization tool for sorting algorithms built using React.js.
 
-## Color Codes
+![1](https://github.com/user-attachments/assets/d61491a8-02bd-43a9-9b85-f0821346f4f1)
+![2](https://github.com/user-attachments/assets/9051f948-1143-4495-a576-83327d232255)
 
-- <span style="background-color:#30D5C8; padding: 5px 10px; color: white;">Generic value in the array</span>  
-- <span style="background-color:#4bc52e; padding: 5px 10px; color: white;">Sorted</span>  
-- <span style="background-color:#ffff50; padding: 5px 10px; color: black;">Key comparison</span>  
-- <span style="background-color:#fc0104; padding: 5px 10px; color: white;">Value being swapped</span>  
 
 
 ## Implemented Sorting Algorithms
