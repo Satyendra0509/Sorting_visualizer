@@ -1,89 +1,37 @@
 # Sorting Visualizer
 
-- This is a visualization tool for sorting algorithms made using React JS.
+This is a visualization tool for sorting algorithms built using React.js.
 
-# Color Codes
+## Color Codes
 
-![#30D5C8] Generic value in the array <br><br>
-![#4bc52e] Sorted <br><br>
-![#ffff50] Key comparison <br><br>
-![#fc0104] Value being swapped <br><br>
+- ![#30D5C8] Generic value in the array  
+- ![#4bc52e] Sorted  
+- ![#ffff50] Key comparison  
+- ![#fc0104] Value being swapped  
 
-# Implemented Sorting Algorithms
+## Implemented Sorting Algorithms
 
-- Bubble Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
-- Selection Sort &nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
-- Insertion Sort &nbsp;&nbsp;&nbsp;&nbsp; O(n<sup>2</sup>)
-- Merge Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
-- Quick Sort &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O(n log n)
+- **Bubble Sort**: O(n<sup>2</sup>)
+- **Selection Sort**: O(n<sup>2</sup>)
+- **Insertion Sort**: O(n<sup>2</sup>)
+- **Merge Sort**: O(n log n)
+- **Quick Sort**: O(n log n)
 
-# Getting Started with Create React App
+## Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run the following commands:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **`npm start`**: Runs the app in development mode at [http://localhost:3000](http://localhost:3000). The page will reload when edits are made.
+  
+- **`npm run build`**: Builds the app for production, bundling and optimizing it for the best performance.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React Documentation](https://reactjs.org/): Learn more about React.
+- [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started): Learn more about the setup and configuration of Create React App.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This summary should provide a cleaner and more concise README, removing the excess details that are not essential for most users. Let me know if you'd like further adjustments!
