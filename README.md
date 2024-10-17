@@ -4,10 +4,11 @@ This is a visualization tool for sorting algorithms built using React.js.
 
 ## Color Codes
 
-- ![#30D5C8] Generic value in the array  
-- ![#4bc52e] Sorted  
-- ![#ffff50] Key comparison  
-- ![#fc0104] Value being swapped  
+- <span style="background-color:#30D5C8; padding: 5px 10px; color: white;">Generic value in the array</span>  
+- <span style="background-color:#4bc52e; padding: 5px 10px; color: white;">Sorted</span>  
+- <span style="background-color:#ffff50; padding: 5px 10px; color: black;">Key comparison</span>  
+- <span style="background-color:#fc0104; padding: 5px 10px; color: white;">Value being swapped</span>  
+
 
 ## Implemented Sorting Algorithms
 
